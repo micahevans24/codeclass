@@ -1,0 +1,5 @@
+# The four fours challenge!
+
+from math import *
+
+print("Zero is", 4+4-4-4)
